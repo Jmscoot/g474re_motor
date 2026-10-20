@@ -1,0 +1,2 @@
+../Core/Src/init_mcu.c:17:13:delay_cycles	16	static
+../Core/Src/init_mcu.c:22:6:init_mcu	4	static

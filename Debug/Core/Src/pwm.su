@@ -1,0 +1,2 @@
+../Core/Src/pwm.c:43:13:gpio_af	24	static
+../Core/Src/pwm.c:50:6:init_pwm	8	static
