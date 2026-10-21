@@ -13,7 +13,8 @@ int main(){
 	//pwm config
 	init_pwm();
 
-	//
+
+#if TEST == TEST_HALL
 
 
 }
